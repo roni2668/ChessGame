@@ -2,11 +2,6 @@
 
 A real-time two-player online Chess game built with HTML, CSS, JavaScript, Node.js, and Express.js. Designed for interactive gameplay with clean UI and live opponent moves.
 
----
-
-## 🚀 Live Demo
-
-🔗 [Play Now](https://your-deployed-link.com)
 
 ---
 
