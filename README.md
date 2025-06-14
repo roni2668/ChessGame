@@ -12,7 +12,8 @@ A real-time two-player online Chess game built with HTML, CSS, JavaScript, Node.
 
 ## 📸 Preview
 
-![Chess Game Screenshot](./assets/preview.png)
+![Chess Game Screenshot]<img width="951" alt="image" src="https://github.com/user-attachments/assets/3c36cc89-ac8c-42fc-ae87-9d518594c343" />
+
 
 ---
 
